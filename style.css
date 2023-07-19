@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+.parent{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+}
+.child{
+
+    height: 20%;
+    width: 10%;
+    background-color: red;
+   
+}
